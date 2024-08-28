@@ -3,7 +3,7 @@ Autor: Danielle Ozaki
 
 Versão: 1.0
 
-Turmas: GR/PYTSCI-N207 (2º semestre 2024)
+Turmas: GR/PYTSCI-N207 - 2º semestre 2024
 
 Caso algum link não esteja disponível favor contactar-me pelo email danielle.ozaki@hotmail.com
 
