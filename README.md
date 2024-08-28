@@ -1,5 +1,5 @@
 # Python para Data Science
-Autores: Danielle Ozaki
+Autor: Danielle Ozaki
 
 Versão: 1.0
 
